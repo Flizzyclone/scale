@@ -1,4 +1,4 @@
-$ Settings
+# Settings
 Dark color : 0
 Darkness : 50%
 Dark hue angle: -51
